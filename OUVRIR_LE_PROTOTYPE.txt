@@ -1,0 +1,10 @@
+LINGOSCROLL — HOW TO OPEN
+
+1. Extract the ZIP.
+2. Double-click demo.html.
+3. Swipe to practice English. No installation required.
+
+The app stores XP, answers and saved cards in this browser.
+Keep using the same browser and file location to retain your progress.
+
+For source code and customisation instructions, see README.md.
